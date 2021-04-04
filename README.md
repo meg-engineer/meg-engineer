@@ -1,6 +1,6 @@
 ## Hi there, I'm Meg😊
 
-### I'm Frontend Web Developer at [リクルーティング・パートナーズ㈱](https://www.3140pa.com/)
+#### I'm Frontend Web Developer at [リクルーティング・パートナーズ㈱](https://www.3140pa.com/)
 
 - 💻 I’m currently working on React, NextJS, TypeScript and Prisma. 
 - 👉 Reach me at [@meg-enginner](https://twitter.com/MegEngineer)
