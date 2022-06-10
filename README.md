@@ -2,6 +2,7 @@
 
 #### I'm Frontend Web Developer
 
+
 - 💻 I’m currently working on React, NextJS, TypeScript and Ruby on Rails. 
 <!-- - 👉 Reach me at [@meg](https://twitter.com/MegEngineer) -->
 
