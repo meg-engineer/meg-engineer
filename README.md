@@ -3,6 +3,7 @@
 #### I'm Frontend Web Developer
 
 - 💻 I’m currently working on React, NextJS, TypeScript and Ruby on Rails. 
+
 <!-- - 👉 Reach me at [@meg](https://twitter.com/MegEngineer) -->
 
 [![](https://raw.githubusercontent.com/meg-engineer/meg-engineer/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
